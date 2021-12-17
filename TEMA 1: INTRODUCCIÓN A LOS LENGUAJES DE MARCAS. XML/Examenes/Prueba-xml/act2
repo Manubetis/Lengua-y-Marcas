@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Hechos_Históricos>
+    <Descripción_de_cada_hecho Descripción="IBM_da_a_conocer_el_PC">
+    <Fecha>
+        <Día>12</Día>
+        <Mes>8</Mes>
+        <Año>1981</Año>
+    </Fecha>
+    </Descripción_de_cada_hecho>
+    <Descripción_de_cada_hecho Descripción="Se_funda_Google">
+    <Fecha>
+        <Día>4</Día>
+        <Mes>9</Mes>
+        <Año>1998</Año>
+    </Fecha>
+    </Descripción_de_cada_hecho>
+    <Descripción_de_cada_hecho Descripción="Se_funda_Facebook">
+    <Fecha>
+        <Día>4</Día>
+        <Mes>2</Mes>
+        <Año>2004</Año>
+    </Fecha>
+    </Descripción_de_cada_hecho>
+</Hechos_Históricos>
