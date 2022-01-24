@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE discografica SYSTEM "discografica.dtd">
+<discografica>
+    <disco>
+        <titulo>Skrillex</titulo>
+        <interpretes>
+            <nombre>Arturo</nombre>
+            <apellido1>Perez</apellido1>
+            <apellido2>Kel</apellido2>
+            <funcion>solista</funcion>
+            </interpretes>
+        <interpretes>
+            <nombre>Felix</nombre>
+            <apellido1>Jimenez</apellido1>
+            <apellido2>Pin</apellido2>
+            <funcion>guitarrista</funcion>
+        </interpretes>
+        <pista>
+            <nombreCancion>LLelow</nombreCancion>
+            <duracion>2:43</duracion>
+        </pista>
+    </disco>
+</discografica>

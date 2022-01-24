@@ -1,0 +1,171 @@
+<Cluster_de_máquinas_virtuales>
+<Nodo_1>
+<Nombre>Manubetis</Nombre>
+<IP>1907</IP>
+    <Máquina_Virtual_1>
+        <Nombre>Cisquito</Nombre>
+        <Sistema_Operativo>Windows10</Sistema_Operativo>
+            <Interfaces_de_red>
+                <IP>1122.21</IP>
+                <MAC>RPG</MAC>
+            </Interfaces_de_red>
+    </Máquina_Virtual_1>
+
+    <Máquina_Virtual_2>
+        <Nombre>chocolate</Nombre>
+        <Sistema_Operativo>Windows11</Sistema_Operativo>
+            <Interfaces_de_red>
+                <IP>1122.111121</IP>
+                <MAC>RPG111</MAC>
+            </Interfaces_de_red>
+            <Interfaces_de_red_2>
+                <IP>9000112.21</IP>
+                <MAC>UUUF</MAC>
+            </Interfaces_de_red_2>
+    </Máquina_Virtual_2>
+
+    <Máquina_Virtual_3>
+        <Nombre>latex</Nombre>
+        <Sistema_Operativo>Windows11</Sistema_Operativo>
+            <Interfaces_de_red>
+                <IP>1442.111121</IP>
+                <MAC>tG111</MAC>
+            </Interfaces_de_red>
+            <Interfaces_de_red_2>
+                <IP>9001112.21</IP>
+                <MAC>F11234</MAC>
+            </Interfaces_de_red_2>
+    </Máquina_Virtual_3>
+</Nodo_1>
+
+<Nodo_2>
+<Nombre>Ezequiel</Nombre>
+<IP>890</IP>
+    <Máquina_Virtual_1>
+        <Nombre>Maicra</Nombre>
+        <Sistema_Operativo>Linux</Sistema_Operativo>
+            <Interfaces_de_red>
+                <IP>234.21</IP>
+                <MAC>JEJE</MAC>
+            </Interfaces_de_red>
+    </Máquina_Virtual_1>
+
+    <Máquina_Virtual_2>
+        <Nombre>LMDSHOW</Nombre>
+        <Sistema_Operativo>Windows21</Sistema_Operativo>
+            <Interfaces_de_red>
+                <IP>0000111.21</IP>
+                <MAC>pop</MAC>
+            </Interfaces_de_red>
+    </Máquina_Virtual_2>
+
+    <Máquina_Virtual_3>
+        <Nombre>Helio</Nombre>
+        <Sistema_Operativo>Windows XP</Sistema_Operativo>
+            <Interfaces_de_red>
+                <IP>1442.1217821</IP>
+                <MAC>111W</MAC>
+            </Interfaces_de_red>
+    </Máquina_Virtual_3>
+</Nodo_2>
+
+<Nodo_3>
+<Nombre>Miguelito</Nombre>
+<IP>123</IP>
+    <Máquina_Virtual_1>
+        <Nombre>Reto</Nombre>
+        <Sistema_Operativo>Windows7</Sistema_Operativo>
+            <Interfaces_de_red>
+                <IP>3456111.21</IP>
+                <MAC>OOH1111H</MAC>
+            </Interfaces_de_red>
+    </Máquina_Virtual_1>
+
+    <Máquina_Virtual_2>
+        <Nombre>çaaaaa</Nombre>
+        <Sistema_Operativo>Windows41</Sistema_Operativo>
+            <Interfaces_de_red>
+                <IP>3456.21</IP>
+                <MAC>OOHH</MAC>
+            </Interfaces_de_red>
+    <Máquina_Virtual_2>
+
+    <Máquina_Virtual_3>
+        <Nombre>Rubius</Nombre>
+        <Sistema_Operativo>Windows XP</Sistema_Operativo>
+            <Interfaces_de_red>
+                <IP>1442.21</IP>
+                <MAC>00Rl</MAC>
+            </Interfaces_de_red>
+    </Máquina_Virtual_3>
+</Nodo_3>
+
+<Nodo_4>
+<Nombre>Angeliño</Nombre>
+<IP>0009</IP>
+    <Máquina_Virtual_1>
+        <Nombre>WEI</Nombre>
+        <Sistema_Operativo>Windows8</Sistema_Operativo>
+            <Interfaces_de_red>
+                <IP>222566.2222</IP>
+                <MAC>11111</MAC>
+            </Interfaces_de_red>
+            <Interfaces_de_red_2>
+                <IP>12245556.21</IP>
+                <MAC>aaaaaaaaaaa</MAC>
+            </Interfaces_de_red_2>
+    </Máquina_Virtual_1>
+
+    <Máquina_Virtual_2>
+        <Nombre>BOOOOFF</Nombre>
+        <Sistema_Operativo>Windows100</Sistema_Operativo>
+            <Interfaces_de_red>
+                <IP>222566.21</IP>
+                <MAC>KELOKE_CON_KELOKE</MAC>
+            </Interfaces_de_red>
+    </Máquina_Virtual_3>
+
+    <Máquina_Virtual_3>
+        <Nombre>Maquina Windows 10</Nombre>
+        <Sistema_Operativo>Windows 10</Sistema_Operativo>
+            <Interfaces_de_red>
+                <IP>1957.1217821</IP>
+                <MAC>Ausus ROG</MAC>
+            </Interfaces_de_red>
+    </Máquina_Virtual_3>
+</Nodo_4>
+<Nodo_5>
+<Nombre>Kelvin</Nombre>
+<IP>1234567890</IP>
+    <Máquina_Virtual_1>
+        <Nombre>Hellooo</Nombre>
+        <Sistema_Operativo>Windows 11</Sistema_Operativo>
+            <Interfaces_de_red>
+                <IP>222566.3242522</IP>
+                <MAC>Asus</MAC>
+            </Interfaces_de_red>
+            <Interfaces_de_red_2>
+                <IP>1565389043.21</IP>
+                <MAC>Pp21</MAC>
+            </Interfaces_de_red_2>
+    </Máquina_Virtual_1>
+
+    <Máquina_Virtual_2>
+        <Nombre>FoRt</Nombre>
+        <Sistema_Operativo>Windows 7</Sistema_Operativo>
+            <Interfaces_de_red>
+                <IP>12366.21</IP>
+                <MAC>Weia</MAC>
+            </Interfaces_de_red>
+    </Máquina_Virtual_3>
+
+    <Máquina_Virtual_3>
+        <Nombre>Maquina Windows 8</Nombre>
+        <Sistema_Operativo>Windows 8</Sistema_Operativo>
+            <Interfaces_de_red>
+                <IP>11326787.1217821</IP>
+                <MAC>Ausus ROG</MAC>
+            </Interfaces_de_red>
+    </Máquina_Virtual_3>
+</Nodo_5>
+</Cluster_de_máquinas_virtuales>

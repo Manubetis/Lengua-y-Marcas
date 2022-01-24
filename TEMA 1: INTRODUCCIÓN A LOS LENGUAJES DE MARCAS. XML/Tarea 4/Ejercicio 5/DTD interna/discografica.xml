@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE discografica [
+<!ELEMENT discografica (disco)>
+<!ELEMENT disco (titulo, interpretes+, pista+)>
+<!ELEMENT pista (nombreCancion, duracion)>
+<!ELEMENT interpretes (nombre, apellido1, apellido2, funcion)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellido1 (#PCDATA)>
+<!ELEMENT apellido2 (#PCDATA)>
+<!ELEMENT funcion (#PCDATA)>
+<!ELEMENT nombreCancion (#PCDATA)>
+<!ELEMENT duracion (#PCDATA)>
+]>
+<discografica>
+    <disco>
+        <titulo>Skrillex</titulo>
+        <interpretes>
+            <nombre>Arturo</nombre>
+            <apellido1>Perez</apellido1>
+            <apellido2>Kel</apellido2>
+            <funcion>solista</funcion>
+            </interpretes>
+        <interpretes>
+            <nombre>Felix</nombre>
+            <apellido1>Jimenez</apellido1>
+            <apellido2>Pin</apellido2>
+            <funcion>guitarrista</funcion>
+        </interpretes>
+        <pista>
+            <nombreCancion>LLelow</nombreCancion>
+            <duracion>2:43</duracion>
+        </pista>
+    </disco>
+
+    <disco>
+        <titulo>Viceversa</titulo>
+        <interpretes>
+            <nombre>Raúl Alejandro</nombre>
+            <apellido1>Ocasio</apellido1>
+            <apellido2>Ruiz</apellido2>
+            <funcion>solista</funcion>
+            </interpretes>
+        <interpretes>
+            <nombre>Marcos</nombre>
+            <apellido1>Efraín</apellido1>
+            <apellido2>Masís</apellido2>
+            <funcion>guitarrista</funcion>
+        </interpretes>
+        <pista>
+            <nombreCancion>Curame</nombreCancion>
+            <duracion>2:44</duracion>
+        </pista>
+        <pista>
+            <nombreCancion>¿Cuándo Fue?</nombreCancion>
+            <duracion>2:48</duracion>
+        </pista>
+    </disco>
+</discografica>
