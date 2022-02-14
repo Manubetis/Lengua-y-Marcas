@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libreria SYSTEM "ej2.dtd">
+<libreria catalogo="131224">
+    <libro titulo="El mundo de las Pipas" editorial="afga" autor="Paco" />
+    <revista marca="1412d">
+        <numero>14151</numero>
+        <editorial>fafag</editorial>
+    </revista>
+    <periodico fecha="2020-01-01" nombre="Ernestito" />
+</libreria>
