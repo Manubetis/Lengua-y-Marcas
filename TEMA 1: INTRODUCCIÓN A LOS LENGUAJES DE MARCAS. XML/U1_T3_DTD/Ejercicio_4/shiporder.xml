@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiporder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="shiporder.xsd" orderid="12441">
+    <orderperson>123</orderperson>
+    <shipto>
+        <name>Kiko</name>
+        <address>Calle en medio nº12</address>
+        <city>New York</city>
+        <country>America</country>
+    </shipto>
+    <item>
+        <title>Kisko</title>
+        <note>13155faffa</note>
+        <quantity>132</quantity>
+        <price>1412</price>
+    </item>
+</shiporder>

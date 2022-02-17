@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Libro SYSTEM "libreria.dtd">
+<Libro Catalogo="gaeag">
+    <Titulo>Apocalipsis</Titulo>
+    <Seccion>1315135</Seccion>
+    <Contenido>
+        <Capitulo materia="XHTML">
+            <Tema>Terror y drama</Tema>
+        </Capitulo>
+    </Contenido>
+    <Copyright>yes</Copyright>
+</Libro>
