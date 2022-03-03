@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        fieldset{
+            color: aqua;
+        }
+    </style>
+</head>
+
+<body>
+    <form>
+        <fieldset>
+            <legend>Prueba de formulario</legend>
+        <label for="name">Nombre:</label>
+        <input type="text" id="name" placeholder="Introduce aqui tu nombre"/>
+        <p>
+            <select name="provincias">
+                <optgroup label="Andalucia">
+                    <option value="S">Sevilla</option>
+                    <option value="J">Jaén</option>
+                    <option value="G">Granada</option>
+                    <option value="H">Huelva</option>
+                    <option value="A">Almería</option>
+                    <option value="C">Cádiz</option>
+                    <option value="C">Córdoba</option>
+                    <option value="S">Málaga</option>
+                </optgroup>
+            </select>
+        </p>
+        <p>
+            <textarea rows="20" cols="20">Viva el Real Betis Blompie, este año a por nuestra copa del rey, YO QUIERO UN BETIS CAMPEOOOOOON.
+            </textarea>
+        </p>
+        <p>
+            <button type="submit">Aceptar</button>
+        </p>
+            <label name="genero">Sexo:</label>
+            <input type="checkbox" name="genero">Hombre</input>
+            <input type="checkbox" name="genero">Mujer</input>
+        </p>
+        <p>
+            <input list="Editores"/>
+            <datalist id="Editores">
+                <option value="W">Word</option>
+                <option value="N">Notepad</option>
+                <option value="WB">WordBook</option>
+            </datalist>
+        </p>
+    </form>
+</fieldset>
+</body>
+
+</html>
