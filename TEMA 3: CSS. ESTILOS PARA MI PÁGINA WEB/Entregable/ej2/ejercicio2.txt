@@ -1,0 +1,2 @@
+Los 5 últimos parrafos son distintos de los primeros, porque a las etiquetas p que contengan el selector (class) llamado "verse"
+el color cambiará a maroon y también se le aplicaría un margen a la izquierda de 60px. 

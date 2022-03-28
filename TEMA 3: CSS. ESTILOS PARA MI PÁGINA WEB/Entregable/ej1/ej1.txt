@@ -1,0 +1,9 @@
+1. Se le aplica a todos los body que existan en el html un color de fondo determinado, en este caso el color "tan".
+2. A todas las etiquetas h1 se le aplica el color maroon y se le aplica un tamaño de fuente de 20pt.
+3. A todos las etiquetas hr se le aplica el color navy a la línea.
+4. Se le aplica a todaslas etiquetas p un tamaño de fuente de 12pt junto a un margen a la izquierda de 15px.
+5. A las etiquetas p que contengan un selector llamado "verse" se le aplica el color maroon y un margen a la izquierda de 60px.
+6. A todos las etiquetas a cuando se utilice la etiqueta el color de la etiqueta será green.
+7. A todas las etiquetas a al visitar el enlace el color de la etiqueta cambiará a yellow.
+8. A todas las etiquetas a cuando el usuario pasa el cursor sobre el elemento el color de la etiqueta a pasaría a ser de color black.
+9. A todas las etiqueta a cuando se mantiene pulsado el click sobre la etiqueta se cambia al color blue.
