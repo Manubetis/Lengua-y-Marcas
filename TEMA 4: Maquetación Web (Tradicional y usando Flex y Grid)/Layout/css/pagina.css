@@ -1,0 +1,190 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+body{
+    position: absolute;
+    text-align: center;
+    background-image:url("https://img.freepik.com/foto-gratis/hermosa-mujer-morena-conduciendo-coche-rojo-compra-automoviles-feliz-propietario-coche-nuevo-mirando-llaves-coche-sonriendo-cabeza-hombros-conductor-feliz_355000-1642.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.menu-stiqui-top{
+    position: sticky;
+    text-align: right;
+    top: 0%;
+    z-index: 1000;
+    padding-right: 650px;
+    background-color: #000000bf;
+}
+
+.menu-stiqui-top div {
+    display: inline-block;
+    position: relative;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    width: 100px;
+  }
+
+div .apartados{
+    padding: 3%;
+}
+
+.apartados{
+    font-weight: 700;
+    color: aliceblue;
+}
+
+.apartados:hover{
+    background-color: gray;
+}
+  
+.logo{
+    display: inline-block;
+    position: absolute;
+    right: 610px;
+}
+
+.menu {
+    padding: 15px;
+    display: inline-block;
+    position: absolute;
+}
+
+.menu a{
+    color: transparent;
+}
+
+#imgLogo{
+    width: 52%;   
+}
+
+.imagen{
+    width: 100%;
+}
+
+#tabla{
+    position: fixed;
+    z-index: 100px;
+}
+
+#main{
+    margin: 25% 10% auto;
+    float: left;
+    z-index: 100;
+    width: 50%;
+}
+
+.texto{
+    color:deeppink;
+    font-weight: 1000;
+    font-size: xx-large;
+    text-align: left;
+    padding-left: 15%;
+}
+
+div p{
+    margin: 0px;
+}
+
+.formulario{
+    position: relative;
+    margin-left: 70%;
+    margin-top: 5%;
+    width: 25%;
+    z-index: 1000px;
+}
+
+fieldset{
+    border: 1px  transparent;
+    background-color: white;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: left;
+    padding-left: 10px;
+}
+
+h6{
+    margin-top: 12%;
+}
+
+fieldset input{
+    width: 250px;
+    height: 40px;
+}
+
+fieldset input{
+    margin-top: 20px;
+    border-color: transparent;
+}
+
+.BecomeADriver{
+    background-color: deeppink;
+    border-color: transparent;
+    border-radius: 5px;
+    color: white;
+    font-size: small;
+    width: 100%;
+}
+
+.BecomeADriver:hover{
+    background-color: pink;
+}
+
+.inputsSubmits{
+    margin-left: 100px;
+}
+
+.calculate{
+    background-color: deeppink;
+    border-color: transparent;
+    border-radius: 5px;
+    color: white;
+    font-size: small;
+    width: 160%;
+    margin-left: 60%;
+}
+
+.submit1{
+    border-color: transparent;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.submit2{
+    border-color: transparent;
+    border-radius: 5px;
+    margin-left: 2%;
+    width: 140%;
+}
+
+.darColor{
+    color: deeppink;
+}
+
+.url{
+    color: deeppink;
+
+}
+
+.tabla{
+    width: 100%;
+    z-index:20;
+    bottom: 0px;
+    padding-left: 130px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:rgb(210, 219, 230) ;
+    padding-right: 1019px;
+}
+
